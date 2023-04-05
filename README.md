@@ -1,5 +1,5 @@
 # Dio-Live-Dynamodb
-Repositório de estudos sobre Bando de dados na Amazon DynamoDB.
+Repositório de estudos sobre Banco de dados na Amazon DynamoDB.
 Curso ministrado na plataforma da DIO.
 Este repositório é um clone do projeto utilizado no bootcamp Banco Pan JAVA.
 ### Serviços e apps utilizados

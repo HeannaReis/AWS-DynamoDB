@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Iron Maiden"},
+  "SongTitle": {"S": "Out of the Silent Planet"},
+  "AlbumTitle": {"S": "Brave New World"},
+  "SongYear": {"S": "2001"}
+}

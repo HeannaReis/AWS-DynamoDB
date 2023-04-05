@@ -1,10 +1,11 @@
 # dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
-
-### Serviço utilizado
+Repositório de estudos sobre Bando de dados na Amazon DynamoDB.
+Curso ministrado na plataforma da DIO.
+Este repositório é um clone do projeto utilizado no bootcamp Banco Pan JAVA.
+### Serviços e apps utilizados
   - Amazon DynamoDB
   - Amazon CLI para execução em linha de comando
-
+  - Git Bash ou outro bash de sua preferência.
 ### Comandos para execução do experimento:
 
 
